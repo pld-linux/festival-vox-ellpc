@@ -2,7 +2,7 @@ Summary:	Castillian Spanish male voice
 Name:		festival-vox-ellpc
 Version:	0.1
 Release:	1
-License:	Non-commercial use
+License:	Non-commercial use, distributable
 Group:		Applications/Sound
 Source0:	http://www.cstr.ed.ac.uk/download/festival/1.4.2/festvox_ellpc11k.tar.gz
 Requires:	festival
