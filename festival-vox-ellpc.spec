@@ -2,8 +2,8 @@ Summary:	Castillian Spanish male voice
 Summary(pl):	Kastyliañska odmiana hiszpañskego - g³os mêski
 Name:		festival-vox-ellpc
 Version:	0.1
-Release:	1
-License:	Non-commercial use, distributable
+Release:	2
+License:	non-commercial use
 Group:		Applications/Sound
 Source0:	http://www.cstr.ed.ac.uk/download/festival/1.4.2/festvox_ellpc11k.tar.gz
 Requires:	festival
