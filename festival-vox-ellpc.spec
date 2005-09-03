@@ -28,7 +28,7 @@ trwania, intonacja i frazy prozodyczne s± minimalne, ale akceptowalne
 dla prostych przyk³adów.
 
 %prep
-%setup -q -c %{name}-%{version}
+%setup -q -c
 
 %install
 rm -rf $RPM_BUILD_ROOT
