@@ -1,5 +1,5 @@
 Summary:	Castillian Spanish male voice
-Summary(pl):	Kastyliañska odmiana hiszpañskiego - g³os mêski
+Summary(pl.UTF-8):   KastyliaÅ„ska odmiana hiszpaÅ„skiego - gÅ‚os mÄ™ski
 Name:		festival-vox-ellpc
 Version:	0.1
 Release:	3
@@ -19,13 +19,13 @@ accents and syllabification.  The durations, intonation and
 prosodic phrasing are minimal but are acceptable for simple
 examples.
 
-%description -l pl
-Ten pakiet udostêpnia g³os mêski dla kastyliañskiej odmiany jêzyka
-hiszpañskiego. U¿ywa wzbudzanej szcz±tkowo dwug³oskowej metody syntezy
-LPC. Leksykon jest udostêpniony jako zestaw regu³ przypisuj±cych
-d¼wiêki literom, powoduj±cych akcenty wymowy i sylabizacjê. Czasy
-trwania, intonacja i frazy prozodyczne s± minimalne, ale akceptowalne
-dla prostych przyk³adów.
+%description -l pl.UTF-8
+Ten pakiet udostÄ™pnia gÅ‚os mÄ™ski dla kastyliaÅ„skiej odmiany jÄ™zyka
+hiszpaÅ„skiego. UÅ¼ywa wzbudzanej szczÄ…tkowo dwugÅ‚oskowej metody syntezy
+LPC. Leksykon jest udostÄ™pniony jako zestaw reguÅ‚ przypisujÄ…cych
+dÅºwiÄ™ki literom, powodujÄ…cych akcenty wymowy i sylabizacjÄ™. Czasy
+trwania, intonacja i frazy prozodyczne sÄ… minimalne, ale akceptowalne
+dla prostych przykÅ‚adÃ³w.
 
 %prep
 %setup -q -c
