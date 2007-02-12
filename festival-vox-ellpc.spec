@@ -1,5 +1,5 @@
 Summary:	Castillian Spanish male voice
-Summary(pl.UTF-8):   Kastyliańska odmiana hiszpańskiego - głos męski
+Summary(pl.UTF-8):	Kastyliańska odmiana hiszpańskiego - głos męski
 Name:		festival-vox-ellpc
 Version:	0.1
 Release:	3
